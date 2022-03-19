@@ -7,7 +7,7 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-tests">Run tests</a>
 </p>
 
 <p align="center">
@@ -47,6 +47,13 @@ $ cd ios && pod-install && cd..
 $ expo start
 
 # Scan QRCODE using your device with Expo Go app instaled.
+```
+## :memo: Tests
+
+```bash
+# Run tests
+$ yarn test
+
 ```
 
 Made with ♥ by Daniel Pinheiro :wave: [Linkedin](https://www.linkedin.com/in/daniel-pinheiro-25b875129/)
